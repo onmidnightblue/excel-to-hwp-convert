@@ -58,7 +58,7 @@ PROGRAMS = {
 
 ```
 pip install pandas pyhwpx openpyxl
-python main.py
+python convert.py
 ```
 
 파이썬 설치 없이 EXE 파일로 실행할 수도 있습니다.
