@@ -1,0 +1,7 @@
+# python cache
+__pycache__/
+*.py[cod]
+
+# log, result
+debug_log.txt
+*.hwp
